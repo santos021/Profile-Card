@@ -89,7 +89,7 @@ p{
 }
 
 /* Media Queries for Mobile Responsiveness */
-@media (max-width: 480px) {
+@media (max-width: 768px) {
     .card {
         width: 100%;
         height: auto;
@@ -97,7 +97,7 @@ p{
 
     .card-top {
         height: 220px;
-        
+
     }
 
     .image img {

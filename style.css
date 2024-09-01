@@ -95,6 +95,10 @@ p{
         height: auto;
     }
 
+    .card-top {
+        height: 220px;
+        
+    }
 
     .image img {
         width: 200px;
